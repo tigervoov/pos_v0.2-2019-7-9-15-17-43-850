@@ -1,5 +1,5 @@
 'use strict';
-
+//const printReceipt=require('../main/main')
 describe('pos', () => {
 
   it('should print text', () => {
